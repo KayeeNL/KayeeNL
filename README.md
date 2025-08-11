@@ -1,9 +1,9 @@
 ### Hi there, I'm Robbert 👋
 
-I'm a highly skilled Sitecore Architect/Developer with a passion for delivering outstanding solutions. With over 17 years of experience in Sitecore and 15 consecutive Sitecore MVP awards (2010-2024), I'm widely regarded as one of the top Sitecore experts. 🚀
+I'm a highly skilled Sitecore Architect/Developer with a passion for delivering outstanding solutions. With over 18 years of experience in Sitecore and 16 consecutive Sitecore MVP awards (2010-2025), I'm widely regarded as one of the top Sitecore experts. 🚀
 
-- 👀 I’m interested in Sitecore, Sitecore JSS, Next.js, C#, React, and Blockchain.
-- 🌱 I’m currently diving deeper into the world of blockchain technology.
+- 👀 I’m interested in Sitecore, Sitecore JSS, Next.js, C#, React, AI and Blockchain.
+- 🌱 I’m currently diving deeper into the world of AI & blockchain technology.
 - 💬 Ask me about Sitecore development, architecture, or anything related to the Sitecore Experience Platform or Sitecore XM Cloud!
 - 📢 Fun fact: I co-founded the Sitecore User Group Netherlands (SUGNL) & Sitecore User Group Conference Europe (SUGCON).
 
